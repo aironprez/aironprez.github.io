@@ -1,0 +1,10 @@
+#+title:My Blog
+
+* Description
+This is a blog with my personal thoughts
+
+* [[./1_First_Post][1 First Post]] [2021-08-11 Wed]
+This is my first post
+
+* [[./2_Second_Post][2 Second Post]] [2021-08-11 Wed]
+This is my second post
